@@ -8,3 +8,6 @@ class SockaApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}

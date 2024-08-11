@@ -7,4 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SockaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SockaApplication.class, args
+        SpringApplication.run(SockaApplication.class, args);
+    }
+
+}
